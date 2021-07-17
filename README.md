@@ -7,3 +7,12 @@ The distribution of the statistics on our datasets can be found in the datasets 
 
 ### Note
 For details of our releasing methods, please see our paper entitles "Efficient Differentially Private Methods for Transmission Disequilibrium Test in GWAS".
+Supplements.pdf contains detailed proofs, detailed description of our datasets, and other information about our methods.
+
+### Contact
+Akito Yamamoto
+
+Division of Medical Data Informatics, Human Genome Center,
+the Institute of Medical Science, the University of Tokyo
+
+a-ymmt@ims.u-tokyo.ac.jp
