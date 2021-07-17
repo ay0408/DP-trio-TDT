@@ -4,6 +4,8 @@ We applied the exponential mechanism, which is based on the concept of different
 
 We conducted experiments based on simulation and real data to evaluate the runtime of our algorithms and the accuracy of outputs. 
 The distribution of the statistics on our datasets can be found in the datasets file. 
+In the evaluation of the accuracy, "evaluation1" is for the case where the distribution of the families in TDT are unbalanced, 
+and "evaluation2" is for the case where the families are distributed across all categories. 
 
 ### Note
 For details of our releasing methods, please see our paper entitles "Efficient Differentially Private Methods for Transmission Disequilibrium Test in GWAS".
