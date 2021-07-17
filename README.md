@@ -15,6 +15,7 @@ Supplements.pdf contains detailed proofs, detailed description of our datasets, 
 Akito Yamamoto
 
 Division of Medical Data Informatics, Human Genome Center,
+
 the Institute of Medical Science, the University of Tokyo
 
 a-ymmt@ims.u-tokyo.ac.jp
