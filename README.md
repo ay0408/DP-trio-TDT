@@ -7,9 +7,10 @@ The distribution of the statistics on our datasets can be found in the datasets 
 In the evaluation of the accuracy, "evaluation1" is for the case where the distribution of the families in TDT are unbalanced, 
 and "evaluation2" is for the case where the families are distributed across all categories. 
 
+Supplements.pdf contains detailed proofs, detailed description of our datasets, and other information about our methods.
+
 ### Note
 For details of our releasing methods, please see our paper entitles "Efficient Differentially Private Methods for Transmission Disequilibrium Test in GWAS".
-Supplements.pdf contains detailed proofs, detailed description of our datasets, and other information about our methods.
 
 ### Contact
 Akito Yamamoto
