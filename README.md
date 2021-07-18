@@ -10,7 +10,7 @@ and "evaluation2" is for the case where the families are distributed across all 
 Supplements.pdf contains detailed proofs, detailed description of our datasets, and other information about our methods.
 
 ### Note
-For details of our releasing methods, please see our paper entitles "Efficient Differentially Private Methods for a Transmission Disequilibrium Test in GWAS".
+For details of our releasing methods, please see our paper entitles "Efficient Differentially Private Methods for the Transmission Disequilibrium Test in Genome Wide Association Studies".
 
 ### Contact
 Akito Yamamoto
