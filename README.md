@@ -12,11 +12,4 @@ Supplements.pdf contains detailed proofs, detailed description of our datasets, 
 ### Note
 For details of our releasing methods, please see our paper entitled "Efficient Differentially Private Methods for a Transmission Disequilibrium Test in Genome Wide Association Studies".
 
-### Contact
-Akito Yamamoto
 
-Division of Medical Data Informatics, Human Genome Center,
-
-the Institute of Medical Science, the University of Tokyo
-
-a-ymmt@ims.u-tokyo.ac.jp
