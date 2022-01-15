@@ -9,7 +9,15 @@ and "evaluation2" is for the case where the families are distributed across all 
 
 Supplements.pdf contains detailed proofs, detailed description of our datasets, and other information about our methods.
 
-### Note
+## Note
 For details of our releasing methods, please see our paper entitled "Efficient Differentially Private Methods for a Transmission Disequilibrium Test in Genome Wide Association Studies".
 
 
+### Contact
+Akito Yamamoto
+
+Division of Medical Data Informatics, Human Genome Center,
+
+the Institute of Medical Science, the University of Tokyo
+
+a-ymmt@ims.u-tokyo.ac.jp
