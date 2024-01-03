@@ -12,6 +12,9 @@ Supplements.pdf contains detailed proofs, detailed description of our datasets, 
 ## Note
 For details of our releasing methods, please see our paper entitled "Efficient Differentially Private Methods for a Transmission Disequilibrium Test in Genome Wide Association Studies" (https://doi.org/10.1142/9789811250477_0009) presented at Pacific Symposium on Biocomputing (PSB) 2022.
 
+Errata:
+
+p.88. Definition 3. " $T_i$ and $T_i'$ are the test statistics obtained from" → " $T_i$ and $T_i'$ are the test statistics associated with"
 
 ### Contact
 Akito Yamamoto
