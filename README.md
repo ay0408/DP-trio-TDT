@@ -14,7 +14,7 @@ For details of our releasing methods, please see our paper entitled "Efficient D
 
 Errata:
 
-・p.88. Definition 3. " $T_i$ and $T_i'$ are the test statistics obtained from" → " $T_i$ and $T_i'$ are the test statistics associated with"
+・p.88. Definition 3. " $D_i, D'_i \in \mathcal{D}^M$ " → " $D, D' \in \mathcal{D}^M$ "
 
 ### Contact
 Akito Yamamoto
